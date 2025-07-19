@@ -1,4 +1,4 @@
-# tThe Prime Crafters Website
+# The Prime Crafters Website
 
 A modern, dark-themed marketing website for The Prime Crafters, built using Next.js 15+ and Tailwind CSS. Fully responsive with subtle 3D effects and smooth animations.
 
